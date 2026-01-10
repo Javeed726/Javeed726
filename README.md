@@ -4,7 +4,7 @@
 I’m a frontend developer with **2+ years of experience** building real-world admin panels, dashboards, and internal tools used by companies.  
 I work mainly with **React, TypeScript, and modern UI frameworks**, and I care deeply about **clean UX, scalable UI architecture, and maintainable code**.
 
-Currently working at a **startup**, where I build products used by real customers — not demo apps.
+Currently working at a **startup**, where I build products used by real customers not demo apps.
 
 ---
 
@@ -69,7 +69,7 @@ Customer, booking, and operations management for a cruise platform.
 Quotation management, customer management, and internal workflows.
 
 ### 🧠 Insurance Rule Engine (UI)  
-A **drag-and-drop rule builder** for defining insurance policies and logic — built completely in React.
+A **drag-and-drop rule builder** for defining insurance policies and logic built completely in React.
 
 ---
 

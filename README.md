@@ -73,24 +73,21 @@ A **drag-and-drop rule builder** for defining insurance policies and logic built
 
 ---
 
-🌐 Live Projects (Check Them Out)
+## 🌐 Live Projects (Check Them Out)
 
 These are projects I built to share with fellow developers and get feedback:
 
 🧰 DevTools (Developer Productivity Hub)
 👉 https://dmtjz.vercel.app/
-
-Tools and utilities to help frontend developers work smarter.
+- Tools and utilities to help frontend developers work smarter.
 
 🎨 Portfolio Website
 👉 https://javeedportfolio.vercel.app/
-
-My work, experience, and projects in one place.
+- My work, experience, and projects in one place.
 
 📘 React Dev Playbook
 👉 https://dev-playbook-jvd.vercel.app/
-
-A structured React learning & reference guide based on real-world patterns.
+- A structured React learning & reference guide based on real-world patterns.
 
 ## 🎯 What I Care About
 

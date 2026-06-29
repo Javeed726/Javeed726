@@ -1,7 +1,7 @@
 ## 🧑‍💻 Javeed Hussain  
 **Frontend Engineer (React.js) | UI Systems Builder**
 
-I’m a frontend developer with **2+ years of experience** building real-world admin panels, dashboards, and internal tools used by companies.  
+I’m a frontend developer with **3+ years of experience** building real-world admin panels, dashboards, and internal tools used by companies.  
 I work mainly with **React, TypeScript, and modern UI frameworks**, and I care deeply about **clean UX, scalable UI architecture, and maintainable code**.
 
 Currently working at a **startup**, where I build products used by real customers not demo apps.
